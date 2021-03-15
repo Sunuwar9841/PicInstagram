@@ -17,3 +17,6 @@ Functionalit:
 - User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
+![](insta.gif)
+
+![](insta1.gif)
